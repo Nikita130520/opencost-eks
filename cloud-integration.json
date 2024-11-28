@@ -1,0 +1,10 @@
+{
+    "aws": {
+        "account_id": "816461209558",
+        "region": "us-east-1",
+        "service": "ec2",
+        "resource_tags": ["eks"],
+        "role_arn": "arn:aws:iam::816461209558:role/OpenCostRole"
+    }
+}
+
